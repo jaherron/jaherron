@@ -14,4 +14,4 @@ Steam: https://steamcommunity.com/id/littlebit670/
 Xbox: LittleBit670  
 Discord: https://discord.gg/AZvsdJrdGz  
 ## Where to contact?
-If you need to get something directly to me, send a direct message to me on Twitter. I do not accept random emails, text messages, or IMs. If you have a question about one of my YouTube videos, then use the comments there. You can also DM me on Discord (Bit#0996).
+If you need to get something directly to me, send a direct message to me on Twitter. I do not accept random emails, text messages, or IMs. If you have a question about one of my YouTube videos, then use the comments there. You can also DM me on Discord (LittleBit#3881).
