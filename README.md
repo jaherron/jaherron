@@ -8,10 +8,10 @@ I write programs mostly in Python and C#.
 ## Where are my social profiles?
 Twitter/X: https://twitter.com/littlebit670  
 YouTube: https://youtube.com/@littlebit670<br/>
-Mastodon: [@littlebit670@mastodon.social](https://mastodon.social/@littlebit670)
-Instagram: https://instagram.com/littlebit672
-Threads: https://threads.net/littlebit672
-Discord Server: https://discord.gg/AZvsdJrdGz  
+Mastodon: [@littlebit670@mastodon.social](https://mastodon.social/@littlebit670) <br/>
+Instagram: https://instagram.com/littlebit672<br/>
+Threads: https://threads.net/littlebit672<br/>
+Discord Server: https://discord.gg/AZvsdJrdGz 
 ## Where are my gaming profiles?
 Roblox: https://roblox.com/users/64603869/profile  
 Steam: https://steamcommunity.com/id/littlebit670/  
