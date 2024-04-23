@@ -17,8 +17,13 @@ I write programs mostly in Python and C#.
 [![badge](https://img.shields.io/badge/matrix_space-%23littleplace:matrix.org-white?style=flat&logo=matrix&logoColor=white)](https://matrix.to/#/#littleplace:matrix.org)
 ## Where are my gaming profiles?
 [![badge](https://img.shields.io/badge/roblox-littlebit672-ff0000?style=flat&logo=roblox&logoColor=white)](https://roblox.com/users/64603869/profile)
-[![badge](https://img.shields.io/badge/steam-LittleBit-navy?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/littlebit670)
+[![badge](https://img.shields.io/badge/steam-LittleBit_%28littlebit670%29-navy?style=flat&logo=steam&logoColor=white)](https://steamcommunity.com/id/littlebit670)
 ![badge](https://img.shields.io/badge/xbox-LittleBit670-green?style=flat&logo=xbox&logoColor=white)
+![badge](https://img.shields.io/badge/call_of_duty-LittleBit670%236938806-black?style=flat&logo=activision&logoColor=white)
+![badge](https://img.shields.io/badge/battle.net-LittleBit670%231309-blue?style=flat&logo=battle.net&logoColor=white)
+![badge](https://img.shields.io/badge/riot_games-LittleBit670%231309-ff0000?style=flat&logo=riot-games&logoColor=white)
+![badge](https://img.shields.io/badge/epic_games-littlebit670-white?style=flat&logo=epic-games&logoColor=white)
+![badge](https://img.shields.io/badge/ea_client-littlebit670-ea554e?style=flat&logo=ea&logoColor=white)
 
 **There are more usernames on the [about page of my website](https://littlebitstudios.com/aboutme.html).**
 ## Where to contact?
