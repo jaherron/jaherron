@@ -33,6 +33,7 @@ I write programs mostly in Python and C#.
 ![badge](https://img.shields.io/badge/riot_games-LittleBit670%231309-ff0000?style=flat&logo=riot-games&logoColor=white)
 ![badge](https://img.shields.io/badge/epic_games-littlebit670-white?style=flat&logo=epic-games&logoColor=white)
 ![badge](https://img.shields.io/badge/ea_client-littlebit670-ea554e?style=flat&logo=ea&logoColor=white)
+![badge](https://img.shields.io/badge/ubisoft%20connect-littlebit670-0000ff?style=flat&logo=ubisoft&logoColor=white)
 
   
 
