@@ -23,6 +23,7 @@ I write programs mostly in Python and C#.
 [![badge](https://img.shields.io/badge/matrix_DM-@littlebit670:matrix.org-white?style=flat&logo=matrix&logoColor=white)](https://matrix.to/#/@littlebit670:matrix.org)
 [![badge](https://img.shields.io/badge/matrix_space-%23littleplace:matrix.org-white?style=flat&logo=matrix&logoColor=white)](https://matrix.to/#/#littleplace:matrix.org)
 [![badge](https://img.shields.io/badge/lens%20protocol-littlebit670-ffffff?style=flat&logoColor=white)](https://hey.xyz/u/littlebit670)
+[![badge](https://img.shields.io/badge/farcaster-littlebit670.eth-855dcd?style=flat&logoColor=white&logo=farcaster)](https://warpcast.com/littlebit670.eth)
 
 ## Where are my gaming profiles?
 [![badge](https://img.shields.io/badge/roblox-littlebit672-ff0000?style=flat&logo=roblox&logoColor=white)](https://roblox.com/users/64603869/profile)
