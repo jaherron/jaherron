@@ -16,7 +16,7 @@ I write programs mostly in Python and C#.
 [![badge](https://img.shields.io/badge/discord_server-LittlePlace-5685f2?style=flat&logo=discord&logoColor=white)](https://littlebitstudios.com/discord)
 ![badge](https://img.shields.io/badge/discord_name-littlebit670-5685f2?style=flat&logo=discord&logoColor=white)
 [![badge](https://img.shields.io/badge/youtube-@littlebit670-ff0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com/@littlebit670)
-[![badge](https://img.shields.io/badge/twitter-@littlebit670-blue?style=flat&logo=twitter&logoColor=white)](https://twitter.com/littlebit670)
+[![badge](https://img.shields.io/badge/twitter-@littlebit670-blue?style=flat&logo=x&logoColor=white)](https://twitter.com/littlebit670)
 [![badge](https://img.shields.io/badge/meta_threads-@littlebit672-black?style=flat&logo=threads&logoColor=white)](https://threads.net/@littlebit672)
 [![badge](https://img.shields.io/badge/instagram-@littlebit672-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/littlebit672)
 [![Static Badge](https://img.shields.io/badge/fediverse-%40littlebit670%40mastodon.social-blue?style=flat&logo=activitypub&logoColor=white)](https://mastodon.social/@littlebit670)
