@@ -21,7 +21,6 @@ I write programs mostly in Python and C#.
 [![badge](https://img.shields.io/badge/instagram-@littlebit672-purple?style=flat&logo=instagram&logoColor=white)](https://instagram.com/littlebit672)
 [![Static Badge](https://img.shields.io/badge/fediverse-%40littlebit670%40mastodon.social-blue?style=flat&logo=activitypub&logoColor=white)](https://mastodon.social/@littlebit670)
 [![badge](https://img.shields.io/badge/matrix_DM-@littlebit670:matrix.org-white?style=flat&logo=matrix&logoColor=white)](https://matrix.to/#/@littlebit670:matrix.org)
-[![badge](https://img.shields.io/badge/matrix_space-%23littleplace:matrix.org-white?style=flat&logo=matrix&logoColor=white)](https://matrix.to/#/#littleplace:matrix.org)
 [![badge](https://img.shields.io/badge/lens%20protocol-littlebit670-ffffff?style=flat&logoColor=white)](https://hey.xyz/u/littlebit670)
 [![badge](https://img.shields.io/badge/farcaster-littlebit670.eth-855dcd?style=flat&logoColor=white&logo=farcaster)](https://warpcast.com/littlebit670.eth)
 
